@@ -54,27 +54,17 @@ basic cheat sheet for coding preparation for Accenture:
   - Efficient for sorted arrays
   - Problem examples: Find element in rotated sorted array, first and last occurrence of a number
 
-#### **5. Recursion**
+#### **5. Functions and Recursion**
 - **Common Problems:**
   - Factorial, Fibonacci sequence
   - Tower of Hanoi
   - Backtracking problems[Optional]: N-Queens, Maze solving
 
-#### **6. Dynamic Programming**
-- **Common Problems:**
-  - Knapsack problem
-  - Longest Increasing Subsequence
-  - Coin change problem
-
-- **DSA Concepts:**
-  - Time Complexity: O(1), O(n), O(log n)
-  - Space Complexity considerations
-
 
   
 
   
-#### **7. Coding Environment Tips**
+#### **6. Coding Environment Tips**
 - Read the problem statement carefully.
 - Plan the algorithm and approach before coding.
 - Write clean and modular code.
