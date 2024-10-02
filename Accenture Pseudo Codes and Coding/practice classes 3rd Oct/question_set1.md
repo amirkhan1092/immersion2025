@@ -1,4 +1,4 @@
-Below are the properly formatted problem statements and sample test cases for a coding contest in **Java** and **Python**. Each problem includes the input/output format and test cases with constraints, designed for use in a coding competition environment.
+# Set-1
 
 ---
 
