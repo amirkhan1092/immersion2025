@@ -39,10 +39,7 @@ Before solving problems, always revise the **prerequisites** of that topic.
 
 ## MASTER PRACTICE SHEET (ALL 150 PROBLEMS)
 
-⚠️ Use this sheet **ONLY AFTER** completing all topic-wise sheets.
-
-🔗 **All 150 Problems (Single Sheet):**  
-[Click Here](https://drive.google.com/drive/folders/18xs0LWffOIGnJXI2jeVFn1HUlixSVvsY?usp=share_link)
+Use this sheet **ONLY AFTER** completing all topic-wise sheets.
 
 ---
 
