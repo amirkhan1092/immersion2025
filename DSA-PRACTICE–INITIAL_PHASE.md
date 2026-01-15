@@ -1,5 +1,3 @@
-
-==============================
 DSA PRACTICE – INITIAL PHASE
 (Structured Learning Path)
 ==============================
@@ -16,12 +14,12 @@ At this stage:
 • Solve problems **topic-wise**
 • Understand WHY a solution works, not just HOW
 
-👉 This practice structure is designed to:
+This practice structure is designed to:
 - Build confidence
 - Improve problem-solving thinking
 - Prepare you step-by-step for interviews
 
-📌 Rule:
+Rule:
 Before solving problems, always revise the **prerequisites** of that topic.
 
 ------------------------------
@@ -40,19 +38,20 @@ HOW TO USE THIS FILE
 MASTER PRACTICE SHEET (ALL 150 PROBLEMS)
 ------------------------------
 
-👉 Use this sheet ONLY AFTER completing all topic-wise sheets.
+Use this sheet ONLY AFTER completing all topic-wise sheets.
 
 🔗 All 150 Problems (Single Sheet):
 [Click Here](https://drive.google.com/drive/folders/18xs0LWffOIGnJXI2jeVFn1HUlixSVvsY?usp=share_link)
+
+
 
 ------------------------------
 TOPIC-WISE PRACTICE SHEETS
 ------------------------------
 
-=================================
+------------------------------
 1. ARRAY & STRING
-=================================
-
+------------------------------
 Prerequisites:
 • Basic arrays
 • Indexing
@@ -60,17 +59,18 @@ Prerequisites:
 • Looping logic
 
 Practice Sheets:
+
 • Array & String – Part 1
   🔗 [Click Here](https://drive.google.com/file/d/1VrOHBlJ59q7RN_MYZnt-b5SWz5_ZjEiN/view?usp=share_link)
 
 • Array & String – Part 2
   🔗 [Click Here](https://drive.google.com/file/d/1CkGaa4d5xts3jdtn912DMRNLu8xX4vXq/view?usp=share_link)
 
----------------------------------
 
-=================================
+
+------------------------------
 2. TWO POINTERS
-=================================
+------------------------------
 
 Prerequisites:
 • Arrays / Strings
@@ -79,11 +79,11 @@ Prerequisites:
 Practice Sheet:
 🔗 [CLICK HERE](https://drive.google.com/file/d/1Fq1j3Xoj_hGRnm1yQrKXihZK1w8kQTjH/view?usp=share_link)
 
----------------------------------
 
-=================================
+
+------------------------------
 3. SLIDING WINDOW
-=================================
+------------------------------
 
 Prerequisites:
 • Two pointers
@@ -92,11 +92,11 @@ Prerequisites:
 Practice Sheet:
 🔗 [Click Here](https://drive.google.com/file/d/1_lq64OXUCx5nvdDqAvSU49y_IbQckkba/view?usp=share_link)
 
----------------------------------
 
-=================================
+
+------------------------------
 4. MATRIX
-=================================
+------------------------------
 
 Prerequisites:
 • 2D arrays
@@ -106,11 +106,11 @@ Prerequisites:
 Practice Sheet:
 🔗 [Click Here](https://drive.google.com/file/d/1RaT6AmnnM_MiyLRo2iNuf6k7Y_htYY5F/view?usp=share_link)
 
----------------------------------
 
-=================================
+
+------------------------------
 5. HASHING
-=================================
+------------------------------
 
 Prerequisites:
 • HashMap / HashSet
@@ -120,11 +120,11 @@ Prerequisites:
 Practice Sheet:
 🔗 [Click Here](https://drive.google.com/file/d/1-GWreXv8tB9LOMF4SAS8yvspWnQ5W6L8/view?usp=share_link)
 
----------------------------------
 
-=================================
+
+------------------------------
 6. STACK
-=================================
+------------------------------
 
 Prerequisites:
 • Stack operations
@@ -133,11 +133,10 @@ Prerequisites:
 Practice Sheet:
 🔗 [Click Here](https://drive.google.com/file/d/1Zp8JOUiqqL4d7vzOMIEuw3T5d47DU5Pm/view?usp=share_link)
 
----------------------------------
 
-=================================
+------------------------------
 7. LINKED LIST
-=================================
+------------------------------
 
 Prerequisites:
 • Node structure
@@ -148,9 +147,8 @@ Practice Sheet:
 
 ---------------------------------
 
-=================================
 8. BINARY TREE
-=================================
+------------------------------
 
 Prerequisites:
 • Recursion
@@ -161,9 +159,9 @@ Practice Sheet:
 
 ---------------------------------
 
-=================================
+
 9. HEAP / PRIORITY QUEUE
-=================================
+------------------------------
 
 Prerequisites:
 • Heap property
@@ -174,9 +172,9 @@ Practice Sheet:
 
 ---------------------------------
 
-=================================
+
 10. BACKTRACKING
-=================================
+------------------------------
 
 Prerequisites:
 • Recursion
@@ -187,9 +185,9 @@ Practice Sheet:
 
 ---------------------------------
 
-=================================
+
 11. GREEDY
-=================================
+------------------------------
 
 Prerequisites:
 • Sorting
@@ -200,9 +198,9 @@ Practice Sheet:
 
 ---------------------------------
 
-=================================
+
 12. DYNAMIC PROGRAMMING (1D)
-=================================
+------------------------------
 
 Prerequisites:
 • Recursion
@@ -214,9 +212,8 @@ Practice Sheet:
 
 ---------------------------------
 
-=================================
 13. DYNAMIC PROGRAMMING (2D)
-=================================
+------------------------------
 
 Prerequisites:
 • 2D DP table understanding
@@ -227,9 +224,8 @@ Practice Sheet:
 
 ---------------------------------
 
-=================================
 14. GRAPH
-=================================
+------------------------------
 
 Prerequisites:
 • BFS / DFS
@@ -241,9 +237,9 @@ Practice Sheet:
 
 ---------------------------------
 
-=================================
+
 15. ADVANCED / HARD
-=================================
+------------------------------
 
 Prerequisites:
 • Strong command over all previous topics
@@ -254,22 +250,20 @@ Practice Sheet:
 
 ---------------------------------
 
-==============================
+
 FINAL NOTE
-==============================
+------------------------------
 
 ✔ Focus on **consistency**
 ✔ Solve with **pen & paper first**
 ✔ Learn patterns, not answers
 ✔ Mistakes are part of learning
 
-👉 Once all topic-wise sheets are completed,
+Once all topic-wise sheets are completed,
 move to **ALL 150 PROBLEMS MASTER SHEET**.
 
 Practice daily.  
 Stay disciplined.  
 Results will follow.
 
-==============================
-END
-==============================
+-amirkhan1092
