@@ -1,12 +1,3 @@
-Absolutely — I’ve converted your screenshots into a **clean, professional coding problem statement** that you can directly use for:
-
-* **Practice sheet**
-* **Mock coding round**
-* **Lab hands-on**
-* **PDF / LMS upload**
-* **Student discussion**
-
----
 
 # **Problem: Terrain Color Trail**
 
